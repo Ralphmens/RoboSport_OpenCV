@@ -2,6 +2,7 @@ import cv2 as cv
 from cv2 import VideoCapture
 import numpy as np
 
+#FEA31F
 
 #Initialization of camera to be used
 VideoCapture = cv.VideoCapture(0)
